@@ -1,7 +1,7 @@
 # EVOLVFIT-Backend
 backend with Springboot,jpa,crud 
 
-I am using a SQL database as SQL database have read operations in much quicker way than Nosql as the website to be designed is a Blog, Higher read speeds are to be expected.
+I am using a SQL database as SQL database supports read operations in much quicker way than Nosql as the website to be designed is a Blog, Higher read speeds are to be expected.
 
 Most of the post requests in the api are requested through body.
 
